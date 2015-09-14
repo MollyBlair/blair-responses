@@ -1,0 +1,14 @@
+In her article, Spyridakis discusses what topics would benefit students in technical communication programs. She suggests a balance between general topics (rhetoric, editing, and design) and modern topics that coincide with industry trends. Like Rainey, Turner, and Dayton, Spyridakis emphasizes the importance of management and collaboration. She also suggests incorporating "real-world" experiences such as internships or client projects that provide students opportunities to collaborate with people in similar fields. Spyridakis especially focuses on user experience (UX), arguing that it should be considered as a technical communication profession.
+
+Spyridakis found that although many universities offer introductory courses and multimedia courses, a low percentage offers usability or research courses. Using Rainey, Turner, and Dayton’s findings surveying managers and Carliner's additional research, Spyridakis compared the listed skills to skills mentioned in current job ads and groups skills required of industry into three categories:
+1.	Basic TC Skills
+2.	Tool Knowledge
+3.	Programming, Web, and Mobile Development Knowledge
+
+According to Spyridakis's findings, current job ads require more. Employers are not only looking for basic communication skills, but also search for programming and development skills. Spyridakis attributes this to a movement towards UX.
+
+Spyridakis addresses Carliner's claim that TC programs should teach foundational skills and knowledge as opposed to technology skills that become outdated. However, Spyridakis is not quick to dismiss tools since they teach the specific skill set required in industry.
+
+I left this article with more questions than when I started reading the article. I took some issue with this article because it felt as though Spyridakis was pushing a UX agenda. While I agree that UX is necessary for technical communication, Spyridakis brushes over other aspects of technical communication such as management and collaboration with SMEs, two aspects of working in a TC field that were highlighted in Rainey, Turner, and Dayton’s article. Does this mean that we need to shift our primary focus in TC to pleasing the user? Or is Spyridakis focusing on one up-and-coming facet of TC rather than the field as a whole?
+
+I also questioned whether Spyridakis was for or against teaching specific tools. She doesn’t seem to take a solid stance on this topic. Although she does mention teaching tools and notes the importance of tools in industry, she also emphasizes that we have to look forward 10-15 years to ensure TC programs are teaching students knowledge beneficial to future industry. If that is the case, then why teach tools that will be outdated in those 10-15 years like Carliner mentioned? Is it merely a way to get our foot in the door of industry, or will our skills with modern tools still be applicable in 10-15 years?
