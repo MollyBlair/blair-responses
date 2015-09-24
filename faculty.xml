@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<directory>
+	<faculty_member>
+		<title>Associate Professor</title>
+		<name>Ryan Boettger</name>
+		<office>Auditorium 314</office>
+		<phone>(940) 565-4458</phone>
+		<email>ryan.boettger@unt.edu</email>
+		<degree_type>PhD</degree_type>
+		<degree_subject>Technical Communication</degree_subject>
+		<degree_subject>Rhetoric</degree_subject>
+	</faculty_member>
+	<faculty_member>
+		<title>Associate Professor</title>
+		<name>Kathryn Raign</name>
+		<office>Lang 409 L</office>
+		<phone>(940) 565-4665</phone>
+		<degree_type>PhD</degree_type>
+		<degree_subject>English (Specialization in Rhetoric and Composition)</degree_subject>
+	</faculty_member>
+</directory>
