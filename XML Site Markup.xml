@@ -1,0 +1,70 @@
+<?xml version=1.0?>
+
+<title>Connect to Wi-Fi on your iPhone, iPad, or iPod Touch</title>
+
+<subtitle>Learn how to connect your device to a Wi-Fi network, including open, secure, and hidden networks.</subtitle>
+
+<section-links>
+	<link>Wi-Fi Network</link>
+	<link>Secure Wi-Fi Network</link>
+	<link>Hidden Wi-Fi Network</link
+</section-links>
+
+<section>
+	<heading>Connect to Wi-Fi networks</heading>
+	<instructions>
+		<step>
+			<content>Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Your device will search for available Wi-Fi networks.</content>
+			<img><img src="iphone-ios9-settings-wifi-network.png" alt ="iphone-ios9-settings-wifi-network"></img>
+		</step>
+			<step><content>Tap the name of the Wi-Fi network you'd like to join.</content>
+			<img><img src="iphone6-ios9-settings-wifi-connected.png" alt="iphone6-ios9-settings-wifi-connected.png"></img>
+		</step>
+		<content>After you've joined the network, you should see <contentimg><img src="wifi-connected-checkmark-icon.png" alt="wifi-connected-checkmark-icon"></contentimg> next to the network, and <contentimg><img src="wifi_inline_icon.png" alt="wifi_inline_icon"></contentimg> in the upper-left side of your display. </content>
+	</instructions>
+</section>
+
+<section>
+	<heading>Connect to secure Wi-Fi networks</heading>
+	<instructions>
+		<step>
+			<content>Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Then, tap the name of the Wi-Fi network you'd like to join. Password-protected networks have <contentimg><img src="iphone6-ios8-mail-lock_closed.png" alt=iphone6-ios8-mail-lock_closed"><contentimg>by their names.</content>
+			<img><img src="iphone6-ios9-settings-wifi-secure.png" alt="iphone6-ios9-settings-wifi-secure.png"></img>
+		</step>
+		<step>
+			<content>When asked, enter the password and tap Join. If tapping Join has no effect, the password you entered is too short.</content>
+			<img><img src="iphone6-settings-wifi-password.png" alt=iphone6-ios9-settings-wifi-password"></img>
+		</step>
+		<content-list>
+			<liststep>If you don't know the password to the Wi-Fi network, contact your network administrator.</liststep>
+			<liststep>
+			<liststep>After you've joined the network, you should see  next to the network, <contentimg><img src="wifi-connected-checkmark-icon.png" alt="wifi-connected-checkmark-icon"></contentimg> and <contentimg><img src="wifi_inline_icon.png" alt="wifi_inline_icon"></contentimg> in the upper-left side of your display.
+		<content-list>
+	</instructions>
+
+	<section>
+	<heading>Connect to hidden Wi-Fi networks</heading>
+	<content>Since hidden networks won't appear in your device's list of available networks, you'll need to know the exact name of the network you're trying to join.</content>
+	<instructions>
+		<step>
+			<content>Tap Settings > Wi-Fi, and make sure Wi-Fi is turned on. Tap Other.</content>
+			<img><img src="iphone-ios9-settings-wifi-other.png" alt="iphone-ios9-settings-wifi-other" alt="iphone-ios9-settings-wifi-other"></img>
+		</step>
+		<step>
+			<content>Enter the exact name of the network, then tap Security.</content>
+			<img><img src="iphone-ios9-settings-hidden-network.png" alt="iphone-ios9-settings-hidden-network"></img>
+		</step>
+		<step>
+			<content>Pick the security type. Not all hidden networks are secure. Check with the network administrator if necessary.</content>
+			<img><img src="iphone6-ios9-settings-hidden-security.png" alt="iphone6-ios9-settings-hidden-security"></img>
+		</step>
+		<step>
+			<content>At the top of the screen, tap Other Network to return to the previous screen.</content>
+		</step>
+		<step>
+			<content>Enter the network password in the Password field, then tap Join.</content>
+			<img><img src="iphone6-ios9-settings-hidden-password.png" alt="iphone6-ios9-settings-hidden-password"></img>
+		</step>
+		<content>After you've joined the network, you should see  next to the network, <contentimg><img src="wifi-connected-checkmark-icon.png" alt="wifi-connected-checkmark-icon"></contentimg> and <contentimg><img src="wifi_inline_icon.png" alt="wifi_inline_icon"></contentimg> in the upper-left side of your display.</content>
+	</instructions>
+</section>
